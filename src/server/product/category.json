@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "label": "a",
+        "children": [
+            {
+                "id": 4,
+                "label": "aa",
+                "children": [
+                    {
+                        "id": 9,
+                        "label": "aaafsfe",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": 500,
+                "label": "abc",
+                "children": [
+                    {
+                        "id": 111,
+                        "label": "此时fe",
+                        "children": [
+                            {
+                                "id": 20,
+                                "label": "casca",
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "label": "b",
+        "children": [
+            {
+                "id": 5,
+                "label": "ba",
+                "children": [
+                    {
+                        "id": 138,
+                        "label": "scascvddsv",
+                        "children": [
+                            {
+                                "id": 370,
+                                "label": "dsvd",
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "label": "bb",
+                "children": []
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "label": "c",
+        "children": [
+            {
+                "id": 7,
+                "label": "ca",
+                "children": []
+            },
+            {
+                "id": 8,
+                "label": "cb",
+                "children": [
+                    {
+                        "id": 97,
+                        "label": "ascasscasc",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    }
+]
